@@ -2755,7 +2755,7 @@ function vu492.NewWindow(_, _, p508, p509)
     v515.Position = UDim2.new(0.5, 0, 0.5, 0)
     v515.Size = UDim2.new(1, 47, 1, 47)
     v515.ZIndex = 0
-    v515.Image = "rbxassetid://6015897843"
+    v515.Image = "rbxassetid://80896980458454"
     v515.ImageColor3 = Color3.fromRGB(0, 0, 0)
     v515.ImageTransparency = 0.5
     v515.ScaleType = Enum.ScaleType.Slice
